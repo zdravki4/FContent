@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FContent
 {
-    public partial class Form1 : Form
+    public partial class MainWindowForm : Form
     {
-        public Form1()
+        public MainWindowForm()
         {
             InitializeComponent();
         }
